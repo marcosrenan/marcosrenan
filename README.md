@@ -6,6 +6,7 @@ My name is Marcos Renan Vascooncelos Magalhães. I'm a PhD Candidate in Economic
 - Coder (Python/Matlab) ➕📐💡
 - Runner, surfer and catholic 🏃🏻🏄🏻⛪
 - I like black coffee, rare meat and classical music ☕🥩🎹
+- I am interested in Macroeconomics, Development and Computational Economics 💻📊📈
 
 ### **Connect me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcos-renan-vasconcelos-magalhaes/)](https://www.linkedin.com/in/marcos-renan-vasconcelos-magalhaes/)
