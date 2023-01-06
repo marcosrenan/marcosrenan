@@ -1,5 +1,5 @@
 ### Hello there!
-My name is Marcos Renan Vascooncelos Magalhães. I'm a PhD Candidate in Economics at CAEN/UFC.
+My name is Marcos Renan Vasconcelos Magalhães. I'm a PhD Candidate in Economics at CAEN/UFC.
 
 ### Facts about me: 
 - Macro(economist) 📊
