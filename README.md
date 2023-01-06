@@ -1,5 +1,5 @@
 ### Hello there!
-My name is Marcos Renan Vasconcelos Magalhães. I'm a PhD Candidate in Economics at CAEN/UFC.
+I am a PhD candidate in Economics at CAEN-UFC. I am currently working at the Center of Technological Studies (Centec) as an Economic Researcher Analyst in Fortaleza/Brazil. I look for simple model solutions to real world problems.
 
 ### Facts about me: 
 - Macro(economist) 📊
