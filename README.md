@@ -4,7 +4,7 @@ I am a PhD candidate in Economics at CAEN-UFC. I am currently working at the Cen
 ### Facts about me: 
 - Macro(economist) 📊
 - Coder (Python/Matlab) ➕📐💡
-- Runner, surfer and catholic 🏃🏻🏄🏻⛪
+- Runner and surfer 🏃🏻🏄🏻
 - I am interested in Macroeconomics, Growth and Development 💻📊📈
 
 ### **Connect me:**
