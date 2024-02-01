@@ -5,7 +5,7 @@ I am a PhD candidate in Economics at CAEN-UFC. I am currently working at the Cen
 - Macro(economist) 📊
 - Coder (Python/Matlab) ➕📐💡
 - Runner and surfer 🏃🏻🏄🏻
-- I am interested in Macroeconomics, Growth and Development 💻📊📈
+- I am interested in Macroeconomics, Growth, Development and Health Economics 💻📊📈
 
 ### **Connect me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcos-renan-vasconcelos-magalhaes/)](https://www.linkedin.com/in/marcos-renan-vasconcelos-magalhaes/)
