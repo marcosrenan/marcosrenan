@@ -1,5 +1,5 @@
 ### Hello there!
-I am a PhD candidate in Economics at CAEN-UFC. I am currently working at the Center of Technological Studies (Centec) as an Economic Researcher Analyst in Fortaleza/Brazil. I look for simple model solutions to real world problems.
+I hold a PhD in Economics from CAEN-UFC. I have experience in the areas of Applied Macroeconomics and Econometrics and I have worked with microdata from different databases, mainly with regard to the Brazilian economy. I look for simple model solutions to real world problems.
 
 ### Facts about me: 
 - Macro(economist) 📊
