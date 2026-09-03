@@ -5,7 +5,7 @@ I hold a PhD in Economics from CAEN-UFC. I have experience in the areas of Appli
 - Macro(economist) 📊
 - Coder (Python/Matlab) ➕📐💡
 - Runner and surfer 🏃🏻🏄🏻
-- I am interested in Macroeconomics, Growth, Development and Health Economics 💻📊📈
+- I am interested in Macroeconomics, Public Finance and Health Economics 💻📊📈
 
 ### **Connect me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mrvmagalhaes/)](https://www.linkedin.com/in/mrvmagalhaes/)
